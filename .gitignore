@@ -1,0 +1,7 @@
+__pycache__
+pretrained/*
+results/*
+runs/*
+checkpoint/*
+final_models/*
+log/*
